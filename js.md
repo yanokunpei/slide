@@ -94,3 +94,8 @@ array[9] = 1; // array[5] until array[8] are now holes
 ### gc
 
 ### optimization killer
+
+
+---
+
+# TypeScript を使おう！！！！！！！！！！！
